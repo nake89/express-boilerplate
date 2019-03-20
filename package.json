@@ -1,17 +1,20 @@
 {
-  "name": "Express.js boilerplate",
-  "version": "0.0.1",
+  "name": "express-boilerplate",
+  "version": "1.0.0",
   "description": "",
   "main": "app.js",
-  "dependencies": {
-    "errorhandler": "^1.5.0",
-    "express": "^4.16.4"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nake89/express-boilerplate.git"
+  },
   "keywords": [],
   "author": "Kevin Kivi <nake89@gmail.com> (http://kevinkivi.com)",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nake89/express-boilerplate/issues"
+  },
+  "homepage": "https://github.com/nake89/express-boilerplate#readme"
 }
