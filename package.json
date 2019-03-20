@@ -1,0 +1,17 @@
+{
+  "name": "Express.js boilerplate",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "errorhandler": "^1.5.0",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kevin Kivi <nake89@gmail.com> (http://kevinkivi.com)",
+  "license": "ISC"
+}
