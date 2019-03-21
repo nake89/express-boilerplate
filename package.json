@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/nake89/express-boilerplate/issues"
   },
-  "homepage": "https://github.com/nake89/express-boilerplate#readme"
+  "homepage": "https://github.com/nake89/express-boilerplate#readme",
+  "dependencies": {
+    "errorhandler": "^1.5.0",
+    "express": "^4.16.4"
+  }
 }

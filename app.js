@@ -45,6 +45,4 @@ app.use((err, req, res, next) => {
   })
 })
 
-app.listen(port, () =>
-  console.log(`Mail API running on http://localhost:${port}/`)
-)
+app.listen(port, () => console.log(`API running on http://localhost:${port}/`))
